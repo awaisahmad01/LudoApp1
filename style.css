@@ -1,0 +1,775 @@
+.main {
+  display: flex;
+  /* flex-direction: row; */
+  flex-wrap: wrap;
+  border: 4px solid black;
+  margin: 0px auto;
+  min-height: 600px;
+  max-height: 600px;
+  min-width: 600px;
+  max-width: 600px;
+  background-color: rgb(124, 83, 83);
+}
+/* *************************Red User Start***************************** */
+
+.redUser {
+  display: flex;
+  box-shadow: inset -1px -1px 8px 5px black;
+  width: 220px;
+  height: 220px;
+  background-color: red;
+  /* margin-bottom: -10px; */
+}
+.redUserCenter{
+  height: 90px;
+  width: 90px;
+  display: flex;
+  margin-top: 60px;
+  margin-left: 60px;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: red;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.redGoti1{
+    height: 30px;
+    width: 30px;
+    margin: 2px;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 100%;
+  }
+  .redGoti2{
+      height: 30px;
+      width: 30px;
+      margin: 2px;
+      background-color: red;
+      border: 2px solid black;
+      border-radius: 100%;
+    }
+    .redGoti3{
+      height: 30px;
+      width: 30px;
+      margin: 2px;
+      background-color: red;
+      border: 2px solid black;
+      border-radius: 100%;
+    }
+    .redGoti4{
+      height: 30px;
+      width: 30px;
+      margin: 2px;
+      background-color: red;
+      border: 2px solid black;
+      border-radius: 100%;
+    }
+/* *************************Red User End***************************** */
+
+/* *************************Orange Home Start***************************** */
+
+.orangeHome {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* margin: 0px auto; */
+  max-width: 160px;
+  max-height: 220px;
+  background-color: rgb(216, 143, 7);
+}
+.orangeRow1Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow1Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow1Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow2Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow2Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(216, 143, 7);
+}
+.orangeRow2Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(216, 143, 7);
+}
+.orangeRow3Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(184, 178, 178);
+}
+.orangeRow3Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(216, 143, 7);
+}
+.orangeRow3Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow4Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow4Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(216, 143, 7);
+}
+.orangeRow4Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow5Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow5Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(216, 143, 7);
+}
+.orangeRow5Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow6Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.orangeRow6Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(216, 143, 7);
+}
+.orangeRow6Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+/* *************************Orange Home End***************************** */
+/* *************************Orange User Start***************************** */
+
+.orangeUser {
+  display: flex;
+  justify-content: center;
+  width: 220px;
+  height: 220px;
+  box-shadow: inset -1px -1px 8px 5px black;
+  background-color: orange;
+}
+.orangeUserCenter{
+  height: 90px;
+  width: 90px;
+  display: flex;
+  margin-top: 60px;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: orange;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.orangeGoti1{
+  height: 30px;
+  width: 30px;
+  margin: 2px;
+  background-color: orange;
+  border: 2px solid black;
+  border-radius: 100%;
+}
+.orangeGoti2{
+    height: 30px;
+    width: 30px;
+    margin: 2px;
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 100%;
+  }
+  .orangeGoti3{
+    height: 30px;
+    width: 30px;
+    margin: 2px;
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 100%;
+  }
+  .orangeGoti4{
+    height: 30px;
+    width: 30px;
+    margin: 2px;
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 100%;
+  }
+/* *************************Orange User End***************************** */
+
+/* *************************Red Home Start***************************** */
+
+.redHome {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 220px;
+  height: 160px;
+  background-color: rgb(224, 34, 34);
+}
+.redRow1Box1 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow1Box2 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(224, 34, 34);
+}
+.redRow1Box3 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow1Box4 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow1Box5 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow1Box6 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow2Box1 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow2Box2 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(224, 34, 34);
+}
+.redRow2Box3 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow2Box4 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow2Box5 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow2Box6 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow3Box1 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow3Box2 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow3Box3 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(184, 178, 178);
+}
+.redRow3Box4 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow3Box5 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.redRow3Box6 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+
+/* *************************Red Home End***************************** */
+
+.winBox {
+  display: flex;
+  /* justify-content: center; */
+  flex-wrap: wrap;
+  width: 160px;
+  height: 160px;
+  background-color: grey;
+}
+.winRedBox {
+  position: relative;
+  width: 0px;
+  height: 0px;
+  /* margin-top: 0px; */
+  border-top: 79px solid transparent;
+  border-bottom: 78px solid transparent;
+  border-left: 80px solid red;
+}
+.winOrangeBox {
+  position: relative;
+  width: 0px;
+  height: 0px;
+  margin-top: -158px;
+  border-left: 79px solid transparent;
+  border-right: 79px solid transparent;
+  border-top: 80px solid orange;
+}
+.winGreenBox{
+    width: 0;
+    height: 0;
+    margin-top: -80px;
+    border-left: 79px solid transparent;
+    border-right: 79px solid transparent;
+    border-bottom: 80px solid green;
+ }
+.winBlueBox {
+  position: relative;
+  width: 0px;
+  height: 0px;
+  margin-left: 79px;
+  margin-top: -157px;
+  border-top: 78px solid transparent;
+  border-bottom: 78px solid transparent;
+  border-right: 80px solid blue;
+}
+
+/* *************************Blue Home Start***************************** */
+
+.blueHome {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 220px;
+  height: 160px;
+  background-color: rgb(2, 2, 202);
+}
+.blueRow1Box1 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow1Box2 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow1Box3 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow1Box4 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(184, 178, 178);
+}
+.blueRow1Box5 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow1Box6 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow2Box1 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow2Box2 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow2Box3 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow2Box4 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow2Box5 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(2, 2, 202);
+}
+.blueRow2Box6 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow3Box1 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow3Box2 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow3Box3 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow3Box4 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.blueRow3Box5 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(2, 2, 202);
+}
+.blueRow3Box6 {
+  width: 36px;
+  height: 53px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+
+/* *************************Blue Home End***************************** */
+/* *************************Green User Start***************************** */
+
+.greenUser {
+  width: 220px;
+  height: 220px;
+  box-shadow: inset -1px -1px 8px 5px black;
+  background-color: green;
+}
+.greenUserCenter{
+  height: 90px;
+  width: 90px;
+  display: flex;
+  margin-top: 55px;
+  margin-left: 55px;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: green;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.greenGoti1{
+    height: 30px;
+    width: 30px;
+    margin: 2px;
+    background-color:green;
+    border: 2px solid black;
+    border-radius: 100%;
+  }
+  .greenGoti2{
+      height: 30px;
+      width: 30px;
+      margin: 2px;
+      background-color:green;
+      border: 2px solid black;
+      border-radius: 100%;
+    }
+  .greenGoti3{
+      height: 30px;
+      width: 30px;
+      margin: 2px;
+      background-color:green;
+      border: 2px solid black;
+      border-radius: 100%;
+    }
+  .greenGoti4{
+      height: 30px;
+      width: 30px;
+      margin: 2px;
+      background-color:green;
+      border: 2px solid black;
+      border-radius: 100%;
+    }
+/* *************************Green User End***************************** */
+/* *************************Green Home Start***************************** */
+
+.greenHome {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* margin: 0px auto; */
+  width: 160px;
+  height: 220px;
+  background-color: rgb(6, 103, 6);
+}
+.greenRow1Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow1Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(6, 103, 6);
+}
+.greenRow1Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow2Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow2Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(6, 103, 6);
+}
+.greenRow2Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow3Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow3Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(6, 103, 6);
+}
+.greenRow3Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow4Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow4Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(6, 103, 6);
+}
+.greenRow4Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(184, 178, 178);
+}
+.greenRow5Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(6, 103, 6);
+}
+.greenRow5Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  /* background-color: rgb(246, 246, 246); */
+  background-color: rgb(6, 103, 6);
+}
+.greenRow5Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow6Box1 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow6Box2 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+.greenRow6Box3 {
+  width: 53px;
+  height: 36px;
+  box-shadow: inset -1px -1px black;
+  background-color: rgb(246, 246, 246);
+}
+
+/* *************************Green Home End***************************** */
+/* *************************Blue User Start***************************** */
+
+.blueUser {
+  width: 220px;
+  height: 220px;
+  box-shadow: inset -1px -1px 8px 5px black;
+  background-color: blue;
+}
+.blueUserCenter{
+  height: 90px;
+  width: 90px;
+  display: flex;
+  margin-top: 60px;
+  margin-left: 65px;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: blue;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+  .blueGoti1{
+    height: 30px;
+    width: 30px;
+    margin: 2px;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 100%;
+  }
+  .blueGoti2{
+      height: 30px;
+      width: 30px;
+      margin: 2px;
+      background-color: blue;
+      border: 2px solid black;
+      border-radius: 100%;
+    }
+  .blueGoti3{
+      height: 30px;
+      width: 30px;
+      margin: 2px;
+      background-color: blue;
+      border: 2px solid black;
+      border-radius: 100%;
+    }
+  .blueGoti4{
+      height: 30px;
+      width: 30px;
+      margin: 2px;
+      background-color: blue;
+      border: 2px solid black;
+      border-radius: 100%;
+    }
+/* *************************Blue User End***************************** */
